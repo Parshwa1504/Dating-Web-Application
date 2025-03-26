@@ -63,17 +63,6 @@ B --> C[Database - MongoDB]
 B --> D[Authentication - JWT]
 B --> E[Messaging System API]
 
-## Screenshots
-
-![alt text](Images/Picture1.png)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-
-
 
 ## 📊 Results
 
