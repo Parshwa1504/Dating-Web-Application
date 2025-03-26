@@ -63,7 +63,6 @@ B --> C[Database - MongoDB]
 B --> D[Authentication - JWT]
 B --> E[Messaging System API]
 
-
 ## 📊 Results
 
 - Built and deployed a full-stack dating platform with a swipe-based matching mechanism  
