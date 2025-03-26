@@ -9,7 +9,6 @@ A modern and intuitive dating web application developed using the MERN stack (Mo
 - [📖 Overview](#-overview)
 - [🚀 Features](#-features)
 - [🛠️ Tech Stack](#-tech-stack)
-- [⚙️ System Architecture](#-system-architecture)
 - [📸 Screenshots](#-screenshots)
 - [📊 Results](#-results)
 - [🔒 Security Considerations](#-security-considerations)
@@ -54,15 +53,24 @@ This app enables:
 
 ---
 
-## ⚙️ System Architecture
+## ScreenShots  
 
-```mermaid
-graph TD
-A[Frontend - React.js] --> B[Backend - Express.js]
-B --> C[Database - MongoDB]
-B --> D[Authentication - JWT]
-B --> E[Messaging System API]
+![](Images/Picture1.png)
 
+![](Images/Picture2.png)
+
+![](Images/Picture3.png)
+
+![](Images/Picture4.png)
+
+![](Images/Picture5.png)
+
+![](Images/Picture7.png)
+
+![](Images/Picture8.png)
+
+
+---
 ## 📊 Results
 
 - Built and deployed a full-stack dating platform with a swipe-based matching mechanism  
